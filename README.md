@@ -36,7 +36,7 @@ I also added the colors used in the design to the variable so that it will be ea
 
 ### What I learned
 
-I learnt how to use the ternary operator in JavaaScript to change values in the app that I am building based on certain conditions.
+I learnt how to use the ternary operator in JavaScript to change values in the app that I am building based on certain conditions.
 
 ### Continued development
 
